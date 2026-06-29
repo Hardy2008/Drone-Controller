@@ -1,0 +1,24 @@
+Liste 1: Die 5-Zoll-Brushless-Drohne
+ -1x ESP32 NodeMCU (mit externem Antennenanschluss / IPEX-Buchse)
+   Details: Wichtig! Nimm die Version mit der Bezeichnung "ESP32-WROOM-32U" – diese hat keine Platinenantenne, sondern eine kleine Buchse, an die du eine echte Antenne anschrauben kannst, um die Reichweite zu sichern. (ca. 6 €)
+
+ -1x 2,4 GHz IPEX-Antenne (Omnidirektional)
+   Details: Eine kleine Stab- oder Pilzantenne mit passendem Pigtail-Kabel für die Buchse des ESP32. (ca. 4 €)
+
+ -1x MPU6050 IMU-Modul (Gyroskop + Beschleunigungssensor)
+   Details: Das elektronische Gleichgewichtsorgan deiner Drohne. (ca. 3–4 €)
+
+ -4x 2207 Brushless-Motoren (ca. 2400 KV)
+   Details: Ein absoluter Standard für 5-Zoll-Drohnen (z. B. EMAX Eco II 2207 oder DYS Samguk). Sie bieten brutale Leistung für 4S-Akkus. (ca. 60 € für alle vier)
+
+ -1x 4-in-1 ESC Board (Electronic Speed Controller) – mind. 40A bis 45A
+   Details: Dieses Board versorgt alle 4 Motoren mit Drehstrom und steuert sie über die Signale des ESP32 an. Zudem liefert es über ein eingebautes BEC direkt stabile 5 V für deinen ESP32. (ca. 50–60 €)
+
+ -1x 4S LiPo-Akku (14.8 V) mit ca. 1300 mAh bis 1550 mAh (mind. 70C bis 100C)
+   Details: Die "C-Rate" ist entscheidend. 5-Zoll-Motoren fordern bei Vollgas extrem viel Strom. Ein Akku mit z. B. 100C bricht dabei nicht ein. (ca. 20–25 €)
+
+ -2x Sätze 5-Zoll-Propeller (5043 oder 5045 Drei-Blatt)
+   Details: Ein Satz besteht immer aus 2x CW und 2x CCW. Kauf lieber direkt zwei Sätze, Propeller sind Verschleißteile. (ca. 6 €)
+
+ -1x 3D-gedruckter 5-Zoll-Rahmen (TPU / Carbon-Improvisation)
+   Details: Da 5-Zoll-Drohnen enorme Kräfte entwickeln, empfiehlt es sich, die "Arme" sehr dick aus PLA/PETG zu drucken oder – noch besser – eine günstige Carbon-Bodenplatte (ca. 15 €) zu kaufen und nur die Halterungen für die Elektronik selbst in TPU zu drucken. (Materialkosten ca. 5 €)

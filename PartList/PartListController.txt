@@ -1,0 +1,18 @@
+Liste 2: Die DIY-Fernsteuerung
+ -1x ESP32 NodeMCU (Ebenfalls die Version "WROOM-32U" mit IPEX-Buchse)
+    Details: Genau wie bei der Drohne brauchst du hier die Version für eine externe Antenne, um maximale Reichweite aus der Hand zu senden. (ca. 6 €)
+
+ -1x 2,4 GHz Stabantenne (mit RP-SMA oder IPEX-Anschluss)
+    Details: Eine klassische, große WLAN-Stabantenne für das Gehäuse deiner Fernsteuerung. (ca. 5 €)
+
+ -2x Analoge Joystick-Module (z. B. PS2/Xbox-Ersatz-Joysticks)
+    Details: Das sind die typischen Platinen mit zwei Potentiometern (X- und Y-Achse) und einer integrierten Tastfunktion beim Herunterdrücken. (ca. 4–5 € im Set)
+
+ -2x Kippschalter (2-Wege oder 3-Wege) oder Druckknöpfe
+    Details: Brauchst du als Sicherheitsschalter, um die Motoren scharfzuschalten (Arming) oder um Flugmodi zu wechseln. (ca. 3 €)
+
+ -1x 18650 Li-Ion Akku + 1x TP4056 Ladeplatine mit 5V-Step-Up
+    Details: Damit deine Fernsteuerung mobil ist. Das TP4056-Modul lädt den Akku per USB auf, und ein kleiner Step-Up-Regler bringt die Spannung stabil auf 5 V für den ESP32. (ca. 6 €)
+
+ -1x 3D-gedrucktes Gehäuse
+    Details: Ein ergonomisches Gehäuse (such auf Thingiverse nach "DIY ESP32 RC Controller"), in das du die Joysticks, Schalter und den ESP32 fest einschraubst. (Materialkosten ca. 3 €)
