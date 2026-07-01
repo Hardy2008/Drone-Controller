@@ -1,0 +1,8 @@
+https://www.amazon.de/dp/B0F65KPWYR?psc=1&ref_=cm_sw_r_cp_ud_ct_W8EVN994YMA838B2Q04B -> 3x ESP 32 mit Antennen
+https://www.amazon.de/dp/B0FPPZNWQP?psc=1&ref_=cm_sw_r_cp_ud_ct_19Z3EVSRFVFXAABVZZTE -> MPU6050 gyro & acceleration sensor
+https://www.amazon.de/dp/B0CL21KM6T?psc=1&ref_=cm_sw_r_cp_ud_ct_VZKXF53B8JSMSTXAT05K -> 8520 Brushed Motors (mit Propellern)
+https://www.amazon.de/dp/B0GWTSC9CZ?psc=1&ref_=cm_sw_r_cp_ud_ct_CBGJEGYYK84K5K0SXTFW -> MOSFET Transistor
+https://www.amazon.de/dp/B09NL18CJL?psc=1&ref_=cm_sw_r_cp_ud_ct_CBGJEGYYK84K5K0SXTFW_1 -> 3.7V LiPo Battery
+https://www.amazon.de/dp/B082ZLXSWP?psc=1&ref_=cm_sw_r_cp_ud_ct_P2NY70K77VMHVH54D6ZS -> JST Plug 40x
+
+total price: 87.03€
