@@ -4,11 +4,11 @@
 
 ### Phase 1: Elektronik & Komponenten-Klarheit (Ziel: Leichtbau)
 
-- [ ] **Gewichts-Inventur machen:** Alle Komponenten einzeln auf die Küchenwaage legen (ESP32, Motoren, Akku, Kabel)
-- [ ] **Stromversorgung klären:**
-  - [ ] Prüfen, wie der ESP32 mit 3.3V versorgt wird (LDO / Spannungsregler besorgen oder ausschlachten)
-  - [ ] 4x leichte SMD-MOSFETs (z. B. AO3400A) oder passende Transistoren für die Motoransteuerung besorgen
-- [ ] **Sensoren festlegen:** IMU / Gyro-Sensor (z. B. MPU6050) bereitlegen
+- [x] **Gewichts-Inventur machen:** Alle Komponenten einzeln auf die Küchenwaage legen (ESP32, Motoren, Akku, Kabel) = 68g ohne 3D Skelett
+- [x] **Stromversorgung klären:**
+  - [x] Prüfen, wie der ESP32 mit 3.3V versorgt wird (LDO / Spannungsregler besorgen oder ausschlachten) = ESP32 hat bereits ein Spannungsregler verbaut
+  - [x] 4x leichte SMD-MOSFETs (z. B. AO3400A) oder passende Transistoren für die Motoransteuerung besorgen = Logic MOSFET gekauft (eigentlich viel zu schwer, sollte aber passen)
+- [x] **Sensoren festlegen:** IMU / Gyro-Sensor (z. B. MPU6050) bereitlegen
 
 ---
 
