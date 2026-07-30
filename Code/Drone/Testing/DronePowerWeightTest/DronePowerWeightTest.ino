@@ -12,7 +12,7 @@ void loop() {
 
   analogWrite(motorPin, motorgeschwindigkeit);
   Serial.print("Speed: ");
-int prozent = map(potiWert, 0, 1023, 0, 100);
+  int prozent = map(potiWert, 0, 1023, 0, 100);
   Serial.print(prozent);
   Serial.println("%");
   delay(10);
