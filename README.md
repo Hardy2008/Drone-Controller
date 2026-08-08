@@ -15,7 +15,7 @@
 ### Phase 2: Trockentest auf dem Steckbrett (Breadboard)
 
 - [X] **ESP32 einrichten:** Arduino IDE für ESP32 konfigurieren und `Blink`-Sketch hochladen
-- [ ] **Motor-Ansteuerung mit ESP32:** Einen Motor über den ESP32 per PWM ansteuern
+- [X] **Motor-Ansteuerung mit ESP32:** Einen Motor über den ESP32 per PWM ansteuern
 - [ ] **Gyro-Sensor auslesen:** MPU6050 verbinden und Rohdaten (Neigung/Winkel) im Seriellen Monitor anzeigen
 - [ ] **Code zusammenführen:** Motor-Drehzahl basierend auf der Neigung des Sensors anpassen (Basis-Regelung)
 
